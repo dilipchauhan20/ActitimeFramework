@@ -1,0 +1,6 @@
+Assertion error occured
+assert 'actiTIME - Login' == 'abc'
+  - actiTIME - Login
+  + abc
+I'm inside finally block
+test complete
